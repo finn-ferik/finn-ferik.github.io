@@ -1,3 +1,11 @@
+
+@font-face {
+  font-family: "pixelcode";
+  src:
+    local("pixelcode"),
+    url("pixelcode.otf") format("opentype")
+}
+
 body {
     background-color: #001111;
 }
