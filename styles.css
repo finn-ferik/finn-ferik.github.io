@@ -1,9 +1,8 @@
 
 @font-face {
-  font-family: "pixel code";
+  font-family: "pixelcode";
   src:
-    local("pixel code"),
-    url("pixelcode.otf") format("opentype")
+    url("PixelCode.otf") format("opentype")
 }
 
 body {
@@ -11,9 +10,9 @@ body {
 }
 p {
     color: #eeffee;
-    font-family: 'pixel code', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'pixelcode', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h1 {
     color: #eeffee;
-    font-family: 'pixel code', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'pixelcode', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
