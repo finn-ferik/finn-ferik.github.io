@@ -6,13 +6,9 @@
 }
 
 body {
-    background-color: #001111;
+    background-color: #0f0f0f;
 }
-p {
-    color: #eeffee;
-    font-family: 'pixelcode', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-h1 {
-    color: #eeffee;
+h1, p {
+    color: #8fff6f;
     font-family: 'pixelcode', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
